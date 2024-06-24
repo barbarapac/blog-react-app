@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  align-items: center;
+  padding: 60px;
+  background-color: #314ab9;
+  color: white;
+}
+
+.text-content {
+  flex: 1;
+  padding-left: 40px;
+}
+
+.image-content img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
