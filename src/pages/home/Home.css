@@ -1,4 +1,4 @@
-.home {
+.home-container {
   display: flex;
   align-items: center;
   padding: 60px;
@@ -6,14 +6,16 @@
   color: white;
 }
 
-.text-content {
-  flex: 1;
-  padding-left: 40px;
-}
-
-.image-content img {
+.home-image img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
+  margin-left: 100px;
+}
+
+.home-text-content {
+  flex: 1;
+  padding-left: 40px;
+  margin-right: 100px;
 }
