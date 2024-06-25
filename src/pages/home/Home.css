@@ -1,17 +1,18 @@
 .home-container {
   display: flex;
   align-items: center;
-  padding: 60px;
+  padding: 30px;
   background-color: #314ab9;
   color: white;
 }
 
 .home-image img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   margin-left: 100px;
+  margin-top: 30px;
 }
 
 .home-text-content {

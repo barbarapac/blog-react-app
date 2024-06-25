@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 20px;
   }
   
   .post-list {
@@ -13,7 +13,7 @@
   }
   
   .post-item {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-right: 20px;
     font-style: italic;
   }
