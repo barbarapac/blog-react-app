@@ -17,4 +17,5 @@ Projeto para a disciplina de **Arquitetura Front-end**, parte do curso de Pós-g
 - Abrir a IDE;
 - Abrir terminal;
 - Executar comando `npm install`;
-- Executar comando `npm start`.
+- Executar comando `npm start`;
+- O projeto estará disponível em: http://localhost:3000/
